@@ -1,0 +1,6 @@
+devel_space: /home/ubuntu/sandbox_ws/src/location_monitor/devel
+install: false
+install_space: /home/ubuntu/sandbox_ws/src/location_monitor/install
+profile: default
+source_space: /home/ubuntu/sandbox_ws/src/location_monitor/src
+workspace: /home/ubuntu/sandbox_ws/src/location_monitor
